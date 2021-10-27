@@ -1,0 +1,5 @@
+4
+Alquds 10 20
+Ramallah 15 30
+Nablus 15 45
+jerico 20 18
